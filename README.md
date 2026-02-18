@@ -18,12 +18,12 @@ are explored, tested, and refined through real examples.
 
 The goal of this repository is to build a strong foundation in:
 
--   Git fundamentals\
--   Branching and merging strategies\
--   Pull request workflows\
--   Conflict resolution\
--   Commit best practices\
--   Collaborative development patterns\
+-   Git fundamentals
+-   Branching and merging strategies
+-   Pull request workflows
+-   Conflict resolution
+-   Commit best practices
+-   Collaborative development patterns
 -   Repository management techniques
 
 This space reflects a deliberate approach to understanding not just
@@ -36,31 +36,31 @@ professional software development environments.
 
 ### 1️⃣ Core Git Concepts
 
--   Initializing repositories\
--   Tracking changes\
--   Writing meaningful commit messages\
--   Understanding Git history\
+-   Initializing repositories
+-   Tracking changes
+-   Writing meaningful commit messages
+-   Understanding Git history
 -   Resetting and reverting changes
 
 ### 2️⃣ Branching Strategies
 
--   Feature branching\
--   Main vs development workflows\
--   Safe merging practices\
+-   Feature branching
+-   Main vs development workflows
+-   Safe merging practices
 -   Handling merge conflicts
 
 ### 3️⃣ Pull Request Workflow
 
--   Creating structured pull requests\
--   Reviewing changes\
--   Merging responsibly\
+-   Creating structured pull requests
+-   Reviewing changes
+-   Merging responsibly
 -   Understanding collaborative patterns
 
 ### 4️⃣ Repository Hygiene
 
--   Clean commit history\
--   Logical project structure\
--   Documentation standards\
+-   Clean commit history
+-   Logical project structure
+-   Documentation standards
 -   Version control discipline
 
 ------------------------------------------------------------------------
@@ -69,10 +69,10 @@ professional software development environments.
 
 This repository follows a practical, experiment-driven methodology:
 
--   Make changes intentionally\
--   Observe Git behavior\
--   Analyze commit history\
--   Improve workflow clarity\
+-   Make changes intentionally
+-   Observe Git behavior
+-   Analyze commit history
+-   Improve workflow clarity
 -   Document lessons learned
 
 Each exercise reinforces real-world practices used in production
@@ -95,10 +95,10 @@ The structure evolves as learning deepens.
 
 Strong Git fundamentals are critical for:
 
--   Professional software development\
--   Open-source contributions\
--   Team collaboration\
--   CI/CD workflows\
+-   Professional software development
+-   Open-source contributions
+-   Team collaboration
+-   CI/CD workflows
 -   Production deployment pipelines
 
 A solid understanding of Git is not optional --- it is foundational to
@@ -108,23 +108,23 @@ modern engineering practice.
 
 ## 🚀 Long-Term Vision
 
-GitFoundations is not a static repository.\
+GitFoundations is not a static repository.
 It evolves as new workflows, tools, and best practices are explored.
 
 Future expansions may include:
 
--   Advanced rebasing strategies\
--   Git hooks and automation\
--   Monorepo management concepts\
--   Contribution simulations\
+-   Advanced rebasing strategies
+-   Git hooks and automation
+-   Monorepo management concepts
+-   Contribution simulations
 -   CI/CD integration examples
 
 ------------------------------------------------------------------------
 
 ## 📈 Philosophy
 
-> Master the fundamentals.\
-> Build discipline.\
+> Master the fundamentals.
+> Build discipline.
 > Develop clarity.
 
 This repository represents the intentional effort to move beyond
